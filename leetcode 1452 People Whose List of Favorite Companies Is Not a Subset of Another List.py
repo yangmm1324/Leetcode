@@ -17,4 +17,4 @@ class Solution:
             if len(candidate) == 1:
                 ans.append(i)
 
-        return ans 
+        return ans
